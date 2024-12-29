@@ -1,5 +1,6 @@
  <h1 align="center">Hi 👋, I'm Belay Ayele Yifra</h1>
 <h3 align="center">A passionate frontend developer from ethiopian</h3>
+<img src="https://png.pngtree.com/illustrations/20190716/ourmid/pngtree-technology-recruitment-blue-2-5d-png-image_41440.jpg" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yifra-21&label=Profile%20views&color=0e75b6&style=flat" alt="yifra-21" /> </p>
 
