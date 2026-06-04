@@ -3,7 +3,11 @@
 
 <!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Belay;Information+Technology+Student;IT+Support+%26+System+Administration;Web+Development+Enthusiast;Technology+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=078930&center=true&vCenter=true&width=800&lines=FrontEnd+Development;IT+Support" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=FCDD09&center=true&vCenter=true&width=800&lines=BackEnd+Development;Technology+Problem+Solver" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=DA121A&center=true&vCenter=true&width=800&lines=MERN+%26+PERN+Development;Full+Stack+Development;Web+Development+Enthusiast" />
 </p>
 
 <!-- Social Links -->
@@ -24,7 +28,7 @@
 <h1 align="center">Hi 👋, I'm Belay</h1>
 
 <h3 align="center">
-FrontEnd | BackEnd | Full Stack |MERN Stack|PERN Stack|Web Development Enthusiast
+Information Technology Student | IT Support | Web Development Enthusiast
 </h3>
 
 <p align="center">
@@ -160,3 +164,9 @@ Hi 👋! My name is Belay Ayele and I'm a Student, from Debre Berhan University
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yifra-21&" alt="yifra-21" /></p>
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=belay123&bg_color=0D1117&color=078930&line=FCDD09&point=DA121A&area=true&hide_border=true"/>
+
+
