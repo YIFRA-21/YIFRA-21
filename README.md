@@ -1,3 +1,14 @@
+###
+
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=true&text=BELAY%20AYELE&fontSize=74&fontColor=FFFFFF&fontAlign=50&fontAlignY=34&rotate=0&stroke=-&animation=twinkling&desc=INFORMATION%20TECHNOLOGY&descSize=40&descAlign=50&descAlignY=64&textBg=false&theme=cobalt"  />
+</div>
+
+###
+
+
 <!-- Main Banner -->
 <img src="https://github.com/YIFRA-21/YIFRA-21/blob/main/assets/Belay.png" alt="Belay Banner" width="100%" />
 
