@@ -1,10 +1,11 @@
- <h1 align="center">Hi 👋, I'm Belay Ayele Yifra</h1>
+ <h1 align="center">Hi 👋, I'm Belay Ayele </h1>
 <h3<p align="center">
   <img src="https://png.pngtree.com/illustrations/20190716/ourmid/pngtree-technology-recruitment-blue-2-5d-png-image_41440.jpg" alt="banner" />
 </p>
 
 <h1> About Me</h1>
-🌱 I’m currently Full Stack Development
+Hi 👋! My name is Belay Ayele and I'm a Student, from Debre Berhan University
+🌱 I’m currently learn Full Stack Development
 
 💻 I am interested in Web Development and Software Development
 
