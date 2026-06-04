@@ -1,5 +1,5 @@
 <!-- Main Banner -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/Banner.png" alt="Belay Banner" width="100%" />
+<img src="https://github.com/YIFRA-21/YIFRA-21/blob/main/assets/Belay.png" alt="Belay Banner" width="100%" />
 
 <!-- Animated Typing Text -->
 <p align="center">
@@ -24,7 +24,7 @@
 <h1 align="center">Hi 👋, I'm Belay</h1>
 
 <h3 align="center">
-Information Technology Student | IT Support | Web Development Enthusiast
+FrontEnd | BackEnd | Full Stack |MERN Stack|PERN Stack|Web Development Enthusiast
 </h3>
 
 <p align="center">
