@@ -1,6 +1,35 @@
- <h1 align="center">Hi 👋, I'm Belay Ayele </h1>
-<h3<p align="center">
-  <img src="https://png.pngtree.com/illustrations/20190716/ourmid/pngtree-technology-recruitment-blue-2-5d-png-image_41440.jpg" alt="banner" />
+<!-- Main Banner -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/Banner.png" alt="Belay Banner" width="100%" />
+
+<!-- Animated Typing Text -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Belay;Information+Technology+Student;IT+Support+%26+System+Administration;Web+Development+Enthusiast;Technology+Problem+Solver" alt="Typing SVG" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<h1 align="center">Hi 👋, I'm Belay</h1>
+
+<h3 align="center">
+Information Technology Student | IT Support | Web Development Enthusiast
+</h3>
+
+<p align="center">
+Passionate about technology, networking, system administration,
+cybersecurity, and building solutions that solve real-world problems.
 </p>
 
 <h1> About Me</h1>
