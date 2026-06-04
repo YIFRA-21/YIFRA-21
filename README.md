@@ -3,17 +3,18 @@
   <img src="https://png.pngtree.com/illustrations/20190716/ourmid/pngtree-technology-recruitment-blue-2-5d-png-image_41440.jpg" alt="banner" />
 </p>
 
-- 🌱 I’m currently learning **python**
+<h1> About Me</h1>
+🌱 I’m currently Full Stack Development
 
-- 👨‍💻 All of my projects are available at [YIFRA-21](YIFRA-21)
+💻 I am interested in Web Development and Software Development
 
-- 📫 How to reach me **shewerke21@gmail.com**
+👨‍💻 I like building projects using Java, Python, JavaScript, and C#
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yifra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yifra" height="30" width="40" /></a>
-<a href="https://instagram.com/belay21@" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="belay21@" height="30" width="40" /></a>
-</p>
+🚀 I am working on frontend and backend development
+
+📫 Email: [shewerke21@gmail.com](mailto:shewerke21@gmail.com)
+
+⚡ I enjoy coding and learning new technologies
 
 ###
 
@@ -108,7 +109,7 @@
 </div>
 
 ###
-
+<h1 align="left">Connect with me:</h1>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
