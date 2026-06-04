@@ -183,7 +183,7 @@ Hi 👋! My name is Belay Ayele and I'm a Student, from Debre Berhan University
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+<img src="https://github.com/YIFRA-21/YIFRA-21/blob/main/assets/bb.gif" width="100%" />
 
 </div>
 
