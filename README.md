@@ -173,12 +173,5 @@ Hi 👋! My name is Belay Ayele and I'm a Student, from Debre Berhan University
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=belay123&bg_color=0D1117&color=078930&line=FCDD09&point=DA121A&area=true&hide_border=true"/>
 ---
 
-<div align="center">
-
-<img src="https://github.com/YIFRA-21/YIFRA-21/blob/main/assets/bb.gif" width="100%" />
-
-</div>
-
----
 
 
